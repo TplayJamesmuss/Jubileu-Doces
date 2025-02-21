@@ -1,0 +1,22 @@
+#homepage{
+    body {
+    /* Define a cor de fundo da página e estilos básicos */
+    background-color:aqua;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+  }
+  
+  /* Estiliza o cabeçalho principal */
+  h1 {
+    color: #2e8b57;
+    text-align: center;
+  }
+  
+  /* Estiliza o parágrafo */
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+}
