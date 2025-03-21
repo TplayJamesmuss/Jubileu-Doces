@@ -1,4 +1,4 @@
-# Comandos Git:
+# Comandos Git para o terminal:
 
 
 - git add .
